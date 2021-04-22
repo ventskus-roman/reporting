@@ -10,7 +10,7 @@ environment:
 dependencies:
   usage: 4.0.2
   tool_base:
-    git: https://github.com/ventskus-roman/tool_base
+    git: https://github.com/adrienbaron/tool_base
 #  tool_base:
 #    path: ../tool_base
 dev_dependencies:
